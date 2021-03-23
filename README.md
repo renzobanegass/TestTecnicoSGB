@@ -14,4 +14,4 @@ El segundo cuadro llama a una api que trae mensajes de texto aleatorios.
 
 El resto de los cuadros son imágenes que al recargarse cambian aleatoriamente.
 
-Usé JQuery, JQuery UI, Chart.js para el gráfico y Font-Awesome.
+Usé JQuery, JQuery UI, Chart.js para el gráfico y Font-Awesome, además de HTML, CSS, Javascript y .NET CORE con C#.
