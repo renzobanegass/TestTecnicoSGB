@@ -1,0 +1,37 @@
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\appsettings.json
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Servicio Test.exe
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Servicio Test.deps.json
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Servicio Test.runtimeconfig.json
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Servicio Test.runtimeconfig.dev.json
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Servicio Test.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\ref\Servicio Test.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Servicio Test.pdb
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\Servicio Test.csprojAssemblyReference.cache
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\Servicio Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\Servicio Test.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\Servicio Test.AssemblyInfo.cs
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\Servicio Test.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\Servicio Test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\Servicio Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\staticwebassets\Servicio Test.StaticWebAssets.Manifest.cache
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\staticwebassets\Servicio Test.StaticWebAssets.xml
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\scopedcss\bundle\Servicio Test.styles.css
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\Servicio Test.RazorTargetAssemblyInfo.cache
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\Servicio Test.csproj.CopyComplete
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\Servicio Test.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\ref\Servicio Test.dll
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\Servicio Test.pdb
+C:\Users\samsung\Desktop\PruebaTecnicaSGBSA\Servicio Test\Servicio Test\obj\Debug\net5.0\Servicio Test.genruntimeconfig.cache
