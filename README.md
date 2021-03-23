@@ -8,7 +8,7 @@
 6. El contenido de cada cuadro se puede recargar en forma individual, sin afectar al resto de la pagina.
 
 
-En el test inclui una api que es simplemente una modificacion del preset de .NET core para conseguir información y poder rellenar dinámicamente la primer card, y no pude encontrar apis similares públicas.
+En el test inclui una api que es simplemente una modificacion del preset de .NET core para conseguir información y poder rellenar dinámicamente la primer card, porque no pude encontrar apis similares públicas.
 
 El segundo cuadro llama a una api que trae mensajes de texto aleatorios.
 
